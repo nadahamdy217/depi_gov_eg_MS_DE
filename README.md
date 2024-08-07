@@ -19,6 +19,15 @@
 
 </p>
 
+<p align="center">
+
+  ### Your task is to fork the provided repository and edit it. Keep editing and uploading it with the past and future tasks and projects
+<p align="center">
+    <img src="res/fork_the_repo.png" width="30%" height="100px">
+</p>
+
+</p>
+
 
 <p align="center">
 
