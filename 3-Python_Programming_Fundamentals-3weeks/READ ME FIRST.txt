@@ -1,0 +1,10 @@
+****INSTRUCTIONS****
+
+1. you need to enter the word you want to print in ENGLISH or it will not print anything
+2. You should enter the source of alphabet file where it is located in your device
+3. You should enter the distination where do you want to print the output images.
+4. Before you run the program again, please make sure that you deleted the previous results
+in the result folder you selected for the previous runnig of the code or change the path
+if you want to keep the previous results because error will occure.
+
+GOOD LUCK ><!!
