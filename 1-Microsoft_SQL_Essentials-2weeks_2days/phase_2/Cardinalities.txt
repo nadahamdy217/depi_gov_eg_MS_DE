@@ -1,0 +1,28 @@
+Server Name: companyservertest.database.windows.net
+Authentication method: SQL server Authentication
+Username: Admin$$Trat0r
+Password: P@$sW0rd
+
+
+
+connecting to the server through AZURE or SSMS:
+
+In the "Connect to Server" dialog in SSMS or "New connectction" part in azure:
+     - Server/connection type: Microsoft SQL Server
+     - Server name / server: companyservertest.database.windows.net
+     - Authentication/ Authentication Type: SQL Server Authentication
+     - Login: Admin$$Trat0r
+     - Password: P@$sW0rd
+     - Encrypt: Mandatory
+     - Trust Server CertificateL True
+     - Click Connect.
+
+
+
+Executing stored procedures:
+
+- Using SSMS or Azure visual studio:
+  - Navigate to your database in the connections part or in the object explorer in SSMS
+  - Expand Programmability -> Stored Procedures.
+  - Right-click on the stored procedure you want to execute and choose Execute or write 
+	a sql qeury to exceute the procesure that stored in that location
