@@ -1,0 +1,3 @@
+[submodule "2-Implementing_a_SQL_Data_Warehouse-4weeks_1day/Movies Data ETL Using Python and GCP (PubSub Emulator)/Movies-Data-ETL-using-Python-GCP"]
+	path = 2-Implementing_a_SQL_Data_Warehouse-4weeks_1day/Movies Data ETL Using Python and GCP (PubSub Emulator)/Movies-Data-ETL-using-Python-GCP
+	url = https://github.com/nadahamdy217/Movies-Data-ETL-using-Python-GCP.git
